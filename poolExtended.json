@@ -12,8 +12,8 @@
       "name": "Stale Software"
     },
     "about": {
-      "me": "As an independent stake pool operator it is my goal to educate people about Cardano and true decentralisation by providing educational content through the Armada Alliance platform (armada-alliance.com).",
-      "server": "Running on low power consuming ARM-based devices (Raspberry Pis & Apple SOC) with an average pool energy consumption of less than 40 Watts💡, always online, 100MB up/down, solar energy. Margin stays 1%."
+      "me": "",
+      "server": ""
     }
   },
   "adapools": "b92012c1afbd6c7ffcf034fefb4500eada5e98529f4d0f54e7db8a81",
