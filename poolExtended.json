@@ -1,0 +1,24 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://i.imgur.com/lgZYJvL.png",
+    "url_png_logo": "https://i.imgur.com/lgZYJvL.png",
+    "location": "Bristol, The United Kingdom",
+    "social": {
+      "telegram_handle": "staledev",
+      "twitter_handle": "staledev",
+      "youtube_handle": "channel/UCFZCM0ez4TjtUaQZMlax6Lw"
+    },
+    "company": {
+      "name": "Stale Software"
+    },
+    "about": {
+      "me": "As an independent stake pool operator it is my goal to educate people about Cardano and true decentralisation by providing educational content through the Armada Alliance platform (armada-alliance.com).",
+      "server": "Running on low power consuming ARM-based devices (Raspberry Pis & Apple SOC) with an average pool energy consumption of less than 40 Watts💡, always online, 100MB up/down, solar energy. Margin stays 1%."
+    }
+  },
+  "adapools": "b92012c1afbd6c7ffcf034fefb4500eada5e98529f4d0f54e7db8a81",
+  "my-pool-ids": ["pool1hysp9sd0h4k8ll8sxnl0k3gqatd9axzjnaxs7488mw9gze40jp9"],
+  "when-satured-then-recommend": [
+    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+  ]
+}
